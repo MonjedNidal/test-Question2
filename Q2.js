@@ -7,4 +7,4 @@ const findMissingNumber = function (arr, n) {
   return n;
 };
 
-console.log(findMissingNumber([3, 0, 1], 3));
+console.log(findMissingNumber([3, 0, 1], 3)); // Output = 2
